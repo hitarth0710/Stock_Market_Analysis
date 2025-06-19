@@ -1,0 +1,12 @@
+flask
+pandas
+matplotlib
+seaborn
+yfinance
+statsmodels
+scikit-learn
+prophet
+pmdarima
+tensorflow
+gunicorn
+Werkzeug
