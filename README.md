@@ -1,7 +1,8 @@
 # Stock Market Analysis & Forecasting Dashboard
 
-![Dashboard Preview](![image](https://github.com/user-attachments/assets/45367fb3-517a-4829-858f-ad7e3199e09f)
-)
+Dashboard Preview
+![image](https://github.com/user-attachments/assets/45367fb3-517a-4829-858f-ad7e3199e09f)
+
 
 A comprehensive web application for analyzing stock market trends and forecasting future price movements using various time series analysis techniques and machine learning models.
 
@@ -21,16 +22,14 @@ This project integrates advanced stock market analysis tools with an intuitive w
 - **Volume Analysis**: Trading volume patterns and anomaly detection
 - **Statistical Metrics**: Key statistics and performance indicators
 
-![Data Analysis Screenshot](![image](https://github.com/user-attachments/assets/d075aa0a-3a3e-456a-8df9-4acc03bdfffd)
-)
+(![image](https://github.com/user-attachments/assets/d075aa0a-3a3e-456a-8df9-4acc03bdfffd)
 
 ### Time Series Analysis
 - **Decomposition**: Breakdown of time series into trend, seasonality, and residual components
 - **Stationarity Testing**: Augmented Dickey-Fuller test with visual interpretation
 - **ACF & PACF**: Autocorrelation and partial autocorrelation function plots for model parameter selection
 
-![Time Series Analysis Screenshot](![image](https://github.com/user-attachments/assets/5e856b4a-7c3d-4968-84f1-700716090ec0)
-)
+![image](https://github.com/user-attachments/assets/5e856b4a-7c3d-4968-84f1-700716090ec0
 
 ### Forecasting Models
 - **ARIMA**: AutoRegressive Integrated Moving Average model
@@ -38,8 +37,7 @@ This project integrates advanced stock market analysis tools with an intuitive w
 - **LSTM**: Long Short-Term Memory neural network model
 - **Model Comparison**: Side-by-side performance metrics (RMSE, MSE, MAE)
 
-![Forecasting Models Screenshot](![image](https://github.com/user-attachments/assets/9b21cb1c-d83c-41fa-ace0-7f765ff66c8f)
-)
+![image](https://github.com/user-attachments/assets/9b21cb1c-d83c-41fa-ace0-7f765ff66c8f
 
 ### User Interface
 - **Responsive Design**: Works on desktop and mobile devices
@@ -110,17 +108,13 @@ python app.py
 ## Sample Results
 
 ### ARIMA Model Performance
-![ARIMA Results](![image](https://github.com/user-attachments/assets/24d3f6de-5933-49e8-88fe-7273158e9614)
-)
+![image](https://github.com/user-attachments/assets/24d3f6de-5933-49e8-88fe-7273158e9614)
 
 ### Prophet Model Performance
-![Prophet Results](![image](https://github.com/user-attachments/assets/d29a37d5-6277-444d-923d-77b40fb4ab8e)
-)
+![image](https://github.com/user-attachments/assets/d29a37d5-6277-444d-923d-77b40fb4ab8e)
 
 ### LSTM Model Performance
-![LSTM Results](![image](https://github.com/user-attachments/assets/357b6583-aaef-4a1a-a9a5-c1638ff85317)
-)
-
+![image](https://github.com/user-attachments/assets/357b6583-aaef-4a1a-a9a5-c1638ff85317)
 
 ## Acknowledgements
 
