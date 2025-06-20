@@ -29,7 +29,7 @@ This project integrates advanced stock market analysis tools with an intuitive w
 - **Stationarity Testing**: Augmented Dickey-Fuller test with visual interpretation
 - **ACF & PACF**: Autocorrelation and partial autocorrelation function plots for model parameter selection
 
-![image](https://github.com/user-attachments/assets/5e856b4a-7c3d-4968-84f1-700716090ec0
+![image](https://github.com/user-attachments/assets/5e856b4a-7c3d-4968-84f1-700716090ec0)
 
 ### Forecasting Models
 - **ARIMA**: AutoRegressive Integrated Moving Average model
@@ -37,7 +37,7 @@ This project integrates advanced stock market analysis tools with an intuitive w
 - **LSTM**: Long Short-Term Memory neural network model
 - **Model Comparison**: Side-by-side performance metrics (RMSE, MSE, MAE)
 
-![image](https://github.com/user-attachments/assets/9b21cb1c-d83c-41fa-ace0-7f765ff66c8f
+![image](https://github.com/user-attachments/assets/9b21cb1c-d83c-41fa-ace0-7f765ff66c8f)
 
 ### User Interface
 - **Responsive Design**: Works on desktop and mobile devices
