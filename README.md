@@ -116,6 +116,30 @@ python app.py
 ### LSTM Model Performance
 ![image](https://github.com/user-attachments/assets/357b6583-aaef-4a1a-a9a5-c1638ff85317)
 
+## Internship Project Description
+
+> 💼 **Use the text below to describe this project in internship applications, resumes, or LinkedIn profiles.**
+
+---
+
+**Developed a full-stack Stock Market Analysis & Forecasting web application** as part of my internship, enabling users to analyse historical stock data and predict future price movements using multiple machine learning models.
+
+**Key Contributions & Responsibilities:**
+
+- Designed and built an end-to-end **Flask web application** with secure user authentication (registration/login with hashed passwords) and a responsive, tab-based dashboard interface.
+- Integrated the **yfinance API** to fetch real-time and historical stock data for any publicly listed company, and computed key financial indicators such as 50-day & 200-day moving averages, daily returns, annualized volatility, Sharpe ratio, and trading volume statistics.
+- Implemented an **interactive data visualisation module** using Matplotlib and Seaborn to generate price trend charts, candlestick charts, return distribution histograms, and volume analysis plots.
+- Performed **advanced time series analysis** including time series decomposition (trend, seasonality, residual), stationarity testing using the Augmented Dickey-Fuller (ADF) test, and ACF/PACF analysis to identify optimal model parameters.
+- Built and evaluated **three forecasting models** with comparative performance metrics (RMSE, MSE, MAE):
+  - **ARIMA** – AutoRegressive Integrated Moving Average with automatic parameter selection via pmdarima
+  - **Prophet** – Facebook's forecasting algorithm handling seasonality and trend changes
+  - **LSTM** – Long Short-Term Memory deep neural network using TensorFlow/Keras for sequential price prediction
+- Developed the project in a **Jupyter Notebook** for exploratory prototyping, then refactored it into a modular production-ready application with a clean separation of concerns (data, visualisation, analysis, forecasting).
+
+**Tech Stack:** Python, Flask, TensorFlow/Keras, Prophet, ARIMA (pmdarima), StatsModels, Pandas, NumPy, Matplotlib, Seaborn, yfinance, SQLite, Bootstrap, HTML/CSS/JavaScript
+
+---
+
 ## Acknowledgements
 
 - Data provided by Yahoo Finance via the yfinance library
